@@ -70,7 +70,6 @@ class SysethereumDApp extends Component {
       window.removeEventListener("SyscoinStatus", callback);
     };
 
-
     window.addEventListener("SyscoinStatus", callback);
   }
 
@@ -776,7 +775,7 @@ class SysethereumDApp extends Component {
                   Developer Portal
                 </a>
                 <a
-                  href="https://blockbook.elint.services/"
+                  href="https://blockbook.syscoin.org/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
